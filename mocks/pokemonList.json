@@ -13,17 +13,17 @@
         "id": 3,
         "name": "mewtwo",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
-    }
+    },
     {
         "id": 4,
         "name": "snorlax",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
-    }
+    },
     {
         "id": 5,
         "name": "charmander",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
-    }
+    },
     {
         "id": 6,
         "name": "zubat",

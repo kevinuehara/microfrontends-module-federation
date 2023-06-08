@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+}
+
+.pokemon-card-container {
+  display: flex;
+  align-items: center;
+}
+
+.pokemon-name {
+  font-weight: bold;
+  color: #1e3a8a;
+  font-size: 20px;
+}
+
+.pokemon-image {
+  width: 150px;
+}

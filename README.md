@@ -13,7 +13,6 @@ The other is using `Create React App (CRA)` and `Craco` to extends the Webpack d
 We have two packages, one of them using vite and other using CRA. Each of one contains two projects. The host and remote app.
 
 The "host" is the `pokemons-home` will consume the micro front-end.
-
 The "remote" is the `pokemon-list` where it contains the MF that will be exposed and the state using `jotai` to manage state of MF.
 
 ### The Micro Front-end (Remote App)
